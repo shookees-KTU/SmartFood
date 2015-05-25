@@ -1,0 +1,6 @@
+[submodule "spade"]
+	path = spade
+	url = https://github.com/javipalanca/spade.git
+[submodule "kivy"]
+	path = kivy
+	url = https://github.com/kivy/kivy.git
